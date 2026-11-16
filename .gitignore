@@ -8,3 +8,7 @@ venv/
 *.pcap
 *.log
 .DS_Store
+.pytest_cache/
+# Generated at runtime by scripts/make_sample.py
+samples/
+*.enc
